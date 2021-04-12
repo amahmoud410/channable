@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dipakpanchal456/channable/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Subdomain Takeover PoC 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+th3.d1p4k
 
 ### Markdown
 
